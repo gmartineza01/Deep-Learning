@@ -1,4 +1,4 @@
-# DeepLearning
+# Deep Learning
 Repositorio para practicas de Deep Learning
 ----------------------------------------------
 
